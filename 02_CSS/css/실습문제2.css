@@ -1,0 +1,67 @@
+/*
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#LOGO {
+  position: fixed;
+  height: 80px;
+  width: 1000px;
+  background-color: white;
+}
+#RED {
+  height: 953px;
+  background-color: red;
+}
+#BLUE {
+  height: 953px;
+  background-color: blue;
+}
+#YELLOW {
+  height: 953px;
+  background-color: yellow;
+}
+.heading {
+  margin: 0;
+  padding: 0;
+  width: 150px;
+  height: 80px;
+  border: white;
+  float: right;
+}*/
+
+header {
+  position: fixed;
+  height: 80px;
+  width: 100%;
+  background-color: white;
+}
+
+#logo {
+  padding: 10px;
+  font-size: 50px;
+  font-weight: bold;
+}
+#red {
+  height: 100vh;
+  background-color: red;
+}
+#purple {
+  height: 100vh;
+  background-color: purple;
+}
+#yellow {
+  height: 100vh;
+  background-color: yellow;
+}
+#top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+  border-radius: 50%;
+  text-decoration: none;
+}
